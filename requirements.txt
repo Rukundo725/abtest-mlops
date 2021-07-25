@@ -1,0 +1,8 @@
+pandas
+numpy
+mlflow
+dvc
+seaborn
+statsmodels
+xgboost
+sklearn
